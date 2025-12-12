@@ -1,0 +1,114 @@
+\documentclass{beamer}
+\usepackage[export]{adjustbox}
+\usepackage{booktabs}
+\usepackage[utf8]{inputenc}
+\usepackage{pifont}
+\usecolortheme{default}
+\title{Conversational Image Understanding with vision models}
+\author{Arsenii Milenchuk, Dariia Shevchuk, Nazarii Tymochko, Oleksandr Petsa}
+\institute{KKUI / FEI / TUKE}
+\date{2025}
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+% --- define task ---
+\begin{frame}
+% review of leterature
+% uderstand of vlm architecture
+% make an evaluation
+%
+% demo of chat assistant are already complete
+\begin{itemize}
+\frametitle{Definícia úlohy}
+\item Prehľad literatúry - \ding{52} 
+\item Pochopenie architektúry - \ding{52}
+\item Rozhranie chatu na nadväzovanie konverzácií s large language modelom - \ding{52} 
+    \textit{už bol ako pet-projekt v minulosti}
+\item Vyhodnotenie rôznych veľkých multimodálnych modelov - \ding{52} 
+\item Pridávanie nástrojov pre použitie multimodalnym modelom - \ding{56}
+\item Dokumentácia - \ding{56}
+\end{itemize}
+\end{frame}
+% -------------------
+
+
+
+% --- define dataset info --- 
+\begin{frame}
+\frametitle{Dataset}
+\begin{block}{Kaggle}
+\begin{itemize}
+    \item Visual Question Answering-Computer Vision \& NLP
+\end{itemize}
+\end{block}
+
+\begin{block}{Hodnotenie}
+\begin{itemize}
+    \item BertScore
+\end{itemize}
+\end{block}
+
+Zahŕňa pochopenie obsahu obrázka a jeho koreláciu s kontextom položenej otázky. 
+Keďže musíme porovnať sémantiku informácií prítomných v oboch modalitách – v obrázku 
+a v otázke v prirodzenom jazyku, ktorá s ním súvisí – VQA zahŕňa širokú škálu čiastkových 
+problémov v CV aj NLP (ako je detekcia a rozpoznávanie objektov, klasifikácia scén, 
+počítanie atď.). Preto sa považuje za úlohu kompletnú s využitím umelej inteligencie.
+\end{frame}
+% --------------------------- 
+
+
+% --- review of results ---
+\begin{frame}
+\frametitle{Precision and Reccal by BertScore}
+\includegraphics[width=0.9\textwidth,center]{../imgs/precision_reccal_graph.png}
+\end{frame}
+\begin{frame}
+\frametitle{F1 by BertScore and Compute Time}
+\includegraphics[width=0.9\textwidth, center]{../imgs/f1_comp_time_graph.png}
+\end{frame}
+% -------------------------
+
+
+% --- best model architecture and usage info ---
+    % --- llava ---
+    \begin{frame}
+    \frametitle{LLaVA Architecture}
+    LLaVa spája vopred natrénovaný vizuálny enkodér CLIP ViT-L/14 a 
+    large language model Vicuna pomocou jednoduchej projekčnej matice.
+    \includegraphics[width=0.9\textwidth, center]{../imgs/llava_arch.png}
+    \end{frame}
+    % -------------
+    % --- minicpm-v ---
+    \begin{frame}
+    \frametitle{Minicpm-v Architecture}
+    Model je postavený na modeloch SigLip-400M a Qwen2-7B s celkovým počtom parametrov 8B. 
+    Vykazuje výrazné zlepšenie výkonu oproti MiniCPM-Llama3-V 2.5 a prináša nové funkcie 
+    pre pochopenie viacerých obrazov a videa.
+    \includegraphics[width=0.9\textwidth, center]{../imgs/minicpm-v_arch.png}
+    \end{frame}
+    % -----------------
+    % --- qwen3-vl ---
+    \begin{frame}
+    \frametitle{Qwen3-vl Architecture}
+    \begin {itemize}
+        \item Interleaved-MRoPE
+        \item DeepStack
+        \item Zarovnanie textu a časovej pečiatky
+    \end{itemize}
+    \includegraphics[width=0.9\textwidth, center]{../imgs/qwen3-vl_arch.jpg}
+    \end{frame}
+    % ----------------
+% ----------------------------------------------
+
+% --- future work ---
+\begin{frame}
+Ďakujem za pozornosť
+\end{frame}
+% -------------------
+
+\end{document}
+
+
