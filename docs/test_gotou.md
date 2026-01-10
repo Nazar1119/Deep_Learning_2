@@ -1,6 +1,6 @@
 # Gotou Picture
 
-We used this image as a test to ensure the model sees the image at all, so we'll include some usage examples. You can see the original image below.
+We used this image as a test to ensure the model sees the image at all, so we decide include some usage examples. You can see the original image below.
 
 ![gotou test image](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_gotou/gotou.jpg)
 
