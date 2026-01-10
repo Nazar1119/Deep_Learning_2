@@ -46,7 +46,9 @@ def image_pipeline(query: ImageAnswer, options: OllamaOptions, model: str = "qwe
                     "# Instructions",
                     "1. Generate **only** what need detect in image for user request.",
                     "2. Generate **only** list with entity for detection.",
-                    "3. Do not provide extra info."
+                    "3. Do not provide extra info.",
+                    "4. List must be contain only entity name.",
+                    "",
                     "",
                     f"User request: {query.query}"
                 ]),
