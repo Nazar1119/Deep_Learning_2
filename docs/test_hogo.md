@@ -51,7 +51,7 @@ You can see the original image below.
 - *Question*: Are you see eggs on this image?
 - *Output*: Agent provide text answer with bounding boxes, but expected only bounding box. *Model answer that don`t see any eggs on the image, but boudngin box output image contain higlighted eggs on the image.*
 
-![hogo detected eggs](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_hogo/hogo4.jpeg)
+![hogo detected eggs](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_hogo/hogo_4.jpeg)
 
 #### Chat-example
 ![hogo chat-example 4-1](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_hogo/chat_4_1.png)
