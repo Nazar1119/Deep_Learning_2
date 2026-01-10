@@ -38,13 +38,12 @@ You can see original image below.
 - *Question*: What date and time i have on the left top corner of image?
 - *Output*: Agent provide text answer and output image with bounding boxes.
 
-![road detected date](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_road/road_3.jpg)
+![road detected date](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_road/road_3.jpeg)
 
 #### Chat-example
 
 ![road chat-example 3-1](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_road/chat_3_1.png)
 ![road chat-example 3-2](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_road/chat_3_2.png)
-![road chat-example 3-3](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_road/chat_3_3.png)
 
 
 ### Question: 4
