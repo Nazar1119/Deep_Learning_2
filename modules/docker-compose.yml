@@ -78,6 +78,9 @@ services:
     ports:
       - "8000:80"
     environment:
+      # if you want use ollama like image in this compose file
+      # uncomment following line and comment next line
+      # OLLAMA_HOST=http://ollama:11434
       - OLLAMA_HOST=http://host.docker.internal:11434
       - DEFAULT_OLLAMA_IMG_MODEL=qwen3-vl:30b
     networks:
@@ -88,6 +91,16 @@ services:
 
 
   # --- ollama image ---
+  #ollama:
+  #  image: ollama/ollama:0.13.3
+  #  ports:
+  #    - "11434:11434"
+  #  networks:
+  #    - sato-net
+  #  volumes:
+  #    - ollama-data:/root/.ollama
+  #    - ./ollama-entrypoint.sh:/entrypoint.sh
+  #  entrypoint: ["/usr/bin/bash", "/entrypoint.sh"]
   # --------------------
 
 
@@ -103,9 +116,7 @@ networks:
         - subnet: 172.20.0.0/24
 
 volumes:
-  obj-det-datalayer:
   obj-det-pg:
   obj-det-s3-vol:
-  obj-det-chainlit:
-  # ollama_cont:
+  ollama-data:
   
