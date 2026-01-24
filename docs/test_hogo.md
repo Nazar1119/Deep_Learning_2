@@ -4,7 +4,7 @@ Hot Pot (*Hogo*) - is a dish of soup/stock kept simmering in a pot by a heat sou
 
 I'm not very familiar with this type of food and don't know how to cook it properly, so I was wondering how much help an assistant could give me with this.
 You can see the original image below.
-![hogo test image](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_hogo/test_hogo.jpeg)
+![hogo test image](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/images/test_hogo/test_hogo.jpg)
 
 
 ### Question: 1
