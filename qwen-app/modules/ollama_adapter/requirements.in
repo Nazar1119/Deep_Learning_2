@@ -1,0 +1,9 @@
+mypy
+fastapi[standard]
+requests
+ollama
+numpy
+pillow
+pyyaml
+logging
+rich
