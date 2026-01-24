@@ -8,7 +8,7 @@ An image-aware agent that routes a user request into one of three flows:
 
 ## Architecture
 
-![Architecture diagram](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/agentic_logic/dark_theme.png)
+![Architecture diagram](https://github.com/sidjik/obj-det-chat-qwen3-vl/blob/master/docs/agentic_logic/images/dark_theme.png)
 
 ### Core components
 - **Image Router Node**  
