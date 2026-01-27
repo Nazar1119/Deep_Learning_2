@@ -1,2 +1,4 @@
 data/
-
+venvs/
+.idea/
+dataset/
