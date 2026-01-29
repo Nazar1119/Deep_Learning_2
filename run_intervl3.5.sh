@@ -1,17 +1,15 @@
 #!/bin/bash
-#SBATCH --job-name=metrics_intervl3.5
+#SBATCH --job-name=internvl3_5_eval
+#SBATCH --partition=GPU
 #SBATCH --gres=gpu:1
-#SBATCH --time=08:00:00
+#SBATCH --time=06:00:00
 #SBATCH --mem=128G
 #SBATCH --output=logs/%x_%j.out
 #SBATCH --error=logs/%x_%j.err
-
-export HF_HOME=/mnt/data/natyke582/hf
 
 source venvs/vlm-env/bin/activate
 
 echo "Running on $(hostname)"
 nvidia-smi
 
-# python modules/scripts/deepseek-70b.py
-python modules/scripts/metrics_intervl3.5.py
+python modules/scripts/intervl3.5-30B-A3B.py

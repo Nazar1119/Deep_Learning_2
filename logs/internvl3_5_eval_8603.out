@@ -1,5 +1,5 @@
-Running on gpu19
-Tue Jan 27 23:50:16 2026       
+Running on gpu24
+Thu Jan 29 01:56:25 2026       
 +-----------------------------------------------------------------------------------------+
 | NVIDIA-SMI 575.57.08              Driver Version: 575.57.08      CUDA Version: 12.9     |
 |-----------------------------------------+------------------------+----------------------+
@@ -7,8 +7,8 @@ Tue Jan 27 23:50:16 2026
 | Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
 |                                         |                        |               MIG M. |
 |=========================================+========================+======================|
-|   0  NVIDIA H200                    On  |   00000000:E9:00.0 Off |                    0 |
-| N/A   33C    P0             74W /  700W |       0MiB / 143771MiB |      0%      Default |
+|   0  NVIDIA H200                    On  |   00000000:F6:00.0 Off |                    0 |
+| N/A   33C    P0             75W /  700W |       0MiB / 143771MiB |      0%      Default |
 |                                         |                        |             Disabled |
 +-----------------------------------------+------------------------+----------------------+
                                                                                          
@@ -21,3 +21,26 @@ Tue Jan 27 23:50:16 2026
 +-----------------------------------------------------------------------------------------+
 Loading tokenizer...
 Loading model...
+FlashAttention2 is not installed.
+Model loaded.
+[10/200] done
+[20/200] done
+[30/200] done
+[40/200] done
+[50/200] done
+[60/200] done
+[70/200] done
+[80/200] done
+[90/200] done
+[100/200] done
+[110/200] done
+[120/200] done
+[130/200] done
+[140/200] done
+[150/200] done
+[160/200] done
+[170/200] done
+[180/200] done
+[190/200] done
+[200/200] done
+Saved results to: outputs/internvl3_5_eval/results.json

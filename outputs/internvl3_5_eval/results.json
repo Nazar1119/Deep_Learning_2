@@ -1,0 +1,1602 @@
+[
+  {
+    "index": 0,
+    "image_id": "image399",
+    "question": "what is the colour of the bag on the chair",
+    "prediction": "The bag on the chair is pink.",
+    "gt_answer": "pink",
+    "latency_sec": 24.581
+  },
+  {
+    "index": 1,
+    "image_id": "image1341",
+    "question": "what is at the right bottom",
+    "prediction": "The right bottom of the image shows part of a wooden dining table with a chair visible on the right side. The table is set with placemats, napkins, and silverware.",
+    "gt_answer": "table",
+    "latency_sec": 3.866
+  },
+  {
+    "index": 2,
+    "image_id": "image1320",
+    "question": "what are found on the rack",
+    "prediction": "The image shows a chessboard on the table, and there are also some decorative items on the shelf in the background.",
+    "gt_answer": "toy",
+    "latency_sec": 2.803
+  },
+  {
+    "index": 3,
+    "image_id": "image529",
+    "question": "what is left of printer",
+    "prediction": "To the left of the printer, there is a small wooden table or desk with a drawer. On top of this table, there is a scanner and some papers.",
+    "gt_answer": "mirror",
+    "latency_sec": 3.436
+  },
+  {
+    "index": 4,
+    "image_id": "image201",
+    "question": "what is the colour of television",
+    "prediction": "The television is black.",
+    "gt_answer": "black",
+    "latency_sec": 1.528
+  },
+  {
+    "index": 5,
+    "image_id": "image1439",
+    "question": "what is on the dining table",
+    "prediction": "The dining table has a floral centerpiece with various colorful flowers and leaves.",
+    "gt_answer": "ornamental_plant",
+    "latency_sec": 2.143
+  },
+  {
+    "index": 6,
+    "image_id": "image477",
+    "question": "what is the ball on the table",
+    "prediction": "The ball on the table appears to be a basketball.",
+    "gt_answer": "basketball",
+    "latency_sec": 2.039
+  },
+  {
+    "index": 7,
+    "image_id": "image1362",
+    "question": "how many drawers are there",
+    "prediction": "There are four drawers in the cabinet.",
+    "gt_answer": "4",
+    "latency_sec": 1.75
+  },
+  {
+    "index": 8,
+    "image_id": "image838",
+    "question": "what is on the left side of the sink",
+    "prediction": "On the left side of the sink, there is a dish towel and a bottle of dish soap.",
+    "gt_answer": "towel",
+    "latency_sec": 2.556
+  },
+  {
+    "index": 9,
+    "image_id": "image73",
+    "question": "what is on the bed",
+    "prediction": "The bed has white pillows and a red blanket on it.",
+    "gt_answer": "comforter, pillow",
+    "latency_sec": 2.022
+  },
+  {
+    "index": 10,
+    "image_id": "image384",
+    "question": "what is in front of the chair",
+    "prediction": "In front of the chair, there is a wooden desk. The desk has several books and papers on it, along with a small decorative item. The arrangement suggests that the desk is used for reading or working, providing a convenient surface to place necessary materials within easy reach while seated. The desk's design appears to be classic",
+    "gt_answer": "table",
+    "latency_sec": 5.406
+  },
+  {
+    "index": 11,
+    "image_id": "image343",
+    "question": "what is colour of the shelf on the top",
+    "prediction": "The shelf on the top is black.",
+    "gt_answer": "black",
+    "latency_sec": 1.758
+  },
+  {
+    "index": 12,
+    "image_id": "image721",
+    "question": "what is on the right side of the tap",
+    "prediction": "On the right side of the tap, there is a small decorative item, possibly a candle holder or a small statue, and a wall-mounted light fixture.",
+    "gt_answer": "cup",
+    "latency_sec": 3.275
+  },
+  {
+    "index": 13,
+    "image_id": "image60",
+    "question": "what are the objects in the bed",
+    "prediction": "The bed has various items on it, including clothes, a bag, and some other personal belongings.",
+    "gt_answer": "hair_brush, clothes",
+    "latency_sec": 2.559
+  },
+  {
+    "index": 14,
+    "image_id": "image169",
+    "question": "how many televisions are there",
+    "prediction": "There is one television in the image.",
+    "gt_answer": "1",
+    "latency_sec": 1.718
+  },
+  {
+    "index": 15,
+    "image_id": "image1381",
+    "question": "what in on the table",
+    "prediction": "The table has a white tablecloth and what appears to be a decorative item, possibly a folded cloth or napkin, in the center.",
+    "gt_answer": "candelabra",
+    "latency_sec": 3.068
+  },
+  {
+    "index": 16,
+    "image_id": "image515",
+    "question": "what is behind the bed",
+    "prediction": "Behind the bed, there is a window with curtains.",
+    "gt_answer": "curtain",
+    "latency_sec": 1.956
+  },
+  {
+    "index": 17,
+    "image_id": "image357",
+    "question": "what is the colour of the plant",
+    "prediction": "The plant is green.",
+    "gt_answer": "green",
+    "latency_sec": 1.563
+  },
+  {
+    "index": 18,
+    "image_id": "image1023",
+    "question": "what is present to the right of the table",
+    "prediction": "To the right of the table, there is a small shelf or cabinet with some items on it.",
+    "gt_answer": "room_divider",
+    "latency_sec": 2.56
+  },
+  {
+    "index": 19,
+    "image_id": "image1218",
+    "question": "what is hanged in front of the door",
+    "prediction": "A curtain is hanging in front of the door.",
+    "gt_answer": "curtain",
+    "latency_sec": 1.881
+  },
+  {
+    "index": 20,
+    "image_id": "image1173",
+    "question": "what is behind the chair",
+    "prediction": "Behind the chair, there is a wall with several framed pictures and artwork.",
+    "gt_answer": "table",
+    "latency_sec": 2.216
+  },
+  {
+    "index": 21,
+    "image_id": "image408",
+    "question": "what is beneath the table",
+    "prediction": "Beneath the table, there is a black trash can.",
+    "gt_answer": "garbage_bin",
+    "latency_sec": 2.083
+  },
+  {
+    "index": 22,
+    "image_id": "image434",
+    "question": "what object is in the room",
+    "prediction": "The room contains a table with four chairs, a vase, and a rug on the floor. There's also a shelving unit or cabinet visible on the right side.",
+    "gt_answer": "table, chair",
+    "latency_sec": 3.423
+  },
+  {
+    "index": 23,
+    "image_id": "image1326",
+    "question": "how many flags are visible",
+    "prediction": "There is one flag visible in the image.",
+    "gt_answer": "1",
+    "latency_sec": 1.825
+  },
+  {
+    "index": 24,
+    "image_id": "image1363",
+    "question": "what is the colour of the chair",
+    "prediction": "The chairs in the image are red.",
+    "gt_answer": "red",
+    "latency_sec": 1.764
+  },
+  {
+    "index": 25,
+    "image_id": "image1437",
+    "question": "what is seen on the dining table",
+    "prediction": "The dining table has a centerpiece with flowers and some decorative items.",
+    "gt_answer": "ornamental_plant",
+    "latency_sec": 2.084
+  },
+  {
+    "index": 26,
+    "image_id": "image876",
+    "question": "what is the object on the floor in front of the cabinet",
+    "prediction": "The object on the floor in front of the cabinet appears to be a pair of red slippers or sandals.",
+    "gt_answer": "garbage_bin",
+    "latency_sec": 2.635
+  },
+  {
+    "index": 27,
+    "image_id": "image898",
+    "question": "how many drawers are there",
+    "prediction": "There are six drawers visible in the image.",
+    "gt_answer": "4",
+    "latency_sec": 1.817
+  },
+  {
+    "index": 28,
+    "image_id": "image1373",
+    "question": "what is on the table",
+    "prediction": "The table has several items on it, including a box, a green object, some books, and a few other small items.",
+    "gt_answer": "book, carton, bottle",
+    "latency_sec": 2.933
+  },
+  {
+    "index": 29,
+    "image_id": "image392",
+    "question": "what is on the left side of the books",
+    "prediction": "On the left side of the books, there is a stack of papers and some magazines or documents on the desk.",
+    "gt_answer": "remote_control",
+    "latency_sec": 2.746
+  },
+  {
+    "index": 30,
+    "image_id": "image632",
+    "question": "how many chairs are there",
+    "prediction": "There are four chairs in the image.",
+    "gt_answer": "4",
+    "latency_sec": 1.749
+  },
+  {
+    "index": 31,
+    "image_id": "image916",
+    "question": "what is the object in the right top of the lamp shade",
+    "prediction": "The object on the top right of the lampshade appears to be a small decorative item, possibly a figurine or a small sculpture. Due to the image's resolution and lighting, the exact details of the object are not very clear.",
+    "gt_answer": "photo",
+    "latency_sec": 4.281
+  },
+  {
+    "index": 32,
+    "image_id": "image1317",
+    "question": "what is in front of the sofa",
+    "prediction": "In front of the sofa, there is an elliptical exercise machine.",
+    "gt_answer": "television",
+    "latency_sec": 2.148
+  },
+  {
+    "index": 33,
+    "image_id": "image408",
+    "question": "what is on the left side of the stool",
+    "prediction": "On the left side of the stool, there is a multi-functional office printer and a small shelf with some items on it.",
+    "gt_answer": "stand",
+    "latency_sec": 2.874
+  },
+  {
+    "index": 34,
+    "image_id": "image1097",
+    "question": "what is on the right side of the table",
+    "prediction": "On the right side of the table, there is a bed with a Mickey Mouse character headboard.",
+    "gt_answer": "bed",
+    "latency_sec": 2.543
+  },
+  {
+    "index": 35,
+    "image_id": "image540",
+    "question": "what are the objects on the bed",
+    "prediction": "The bed has a blue blanket and some pillows on it.",
+    "gt_answer": "blanket, pillow",
+    "latency_sec": 2.016
+  },
+  {
+    "index": 36,
+    "image_id": "image1423",
+    "question": "what is in the cupboard",
+    "prediction": "The cupboard contains various decorative items, including plates, cups, and other ornamental pieces.",
+    "gt_answer": "decorative_plate, cup",
+    "latency_sec": 2.41
+  },
+  {
+    "index": 37,
+    "image_id": "image694",
+    "question": "what is the colour of the towel",
+    "prediction": "The towels are white.",
+    "gt_answer": "white",
+    "latency_sec": 1.555
+  },
+  {
+    "index": 38,
+    "image_id": "image88",
+    "question": "what is the object kept close to the wall",
+    "prediction": "The object close to the wall appears to be a clock.",
+    "gt_answer": "clock",
+    "latency_sec": 2.051
+  },
+  {
+    "index": 39,
+    "image_id": "image1061",
+    "question": "what is on the right side of the table",
+    "prediction": "On the right side of the table, there is a chair.",
+    "gt_answer": "door",
+    "latency_sec": 2.083
+  },
+  {
+    "index": 40,
+    "image_id": "image461",
+    "question": "what is in between the ornamental plants",
+    "prediction": "In between the ornamental plants, there is a wooden shelf with several compartments. The shelf holds various items, including lit candles, framed pictures, and other decorative objects. The setup creates a balanced and aesthetically pleasing arrangement, with the plants flanking the shelf on either side.",
+    "gt_answer": "tissue_box",
+    "latency_sec": 5.178
+  },
+  {
+    "index": 41,
+    "image_id": "image1426",
+    "question": "what are the white objects",
+    "prediction": "The white objects in the image are chairs covered with white slipcovers. These covers are typically used to protect and update the appearance of furniture.",
+    "gt_answer": "chair, lamp",
+    "latency_sec": 3.066
+  },
+  {
+    "index": 42,
+    "image_id": "image1051",
+    "question": "what are hanged above the laundry basket",
+    "prediction": "There are clothes hanging above the laundry basket.",
+    "gt_answer": "clothes",
+    "latency_sec": 1.74
+  },
+  {
+    "index": 43,
+    "image_id": "image1066",
+    "question": "what are the things found near the table",
+    "prediction": "In the image, near the table, you can see the following items:\n\n1. A chair\n2. A blue trash bin\n3. A white plastic bag\n4. Some papers and books on the table\n5. A box of tissues on the table\n6. A couple of other items on the shelf",
+    "gt_answer": "container, bag",
+    "latency_sec": 5.31
+  },
+  {
+    "index": 44,
+    "image_id": "image1111",
+    "question": "what is found below the mirror",
+    "prediction": "Below the mirror, there is a table with a chair in front of it.",
+    "gt_answer": "table",
+    "latency_sec": 2.234
+  },
+  {
+    "index": 45,
+    "image_id": "image1272",
+    "question": "what is object is to the right of the sofa near the wall",
+    "prediction": "To the right of the sofa near the wall, there is a small table with a few items on it, including what appears to be a tissue box and some books or magazines. Additionally, there is a decorative plant on a stand next to the table.",
+    "gt_answer": "indoor_fountain",
+    "latency_sec": 4.579
+  },
+  {
+    "index": 46,
+    "image_id": "image280",
+    "question": "what is on the bed",
+    "prediction": "The bed has three stuffed toys on it.",
+    "gt_answer": "toy",
+    "latency_sec": 1.815
+  },
+  {
+    "index": 47,
+    "image_id": "image958",
+    "question": "what is on the right side of the blinds",
+    "prediction": "On the right side of the blinds, there is a decorative object that looks like a rocket or missile.",
+    "gt_answer": "decorative_item",
+    "latency_sec": 2.612
+  },
+  {
+    "index": 48,
+    "image_id": "image438",
+    "question": "what is on the desk",
+    "prediction": "The desk has several items on it, including papers, a printer, and some photos or cards pinned up on the wall above it.",
+    "gt_answer": "doll_house, monitor, printer",
+    "latency_sec": 2.996
+  },
+  {
+    "index": 49,
+    "image_id": "image679",
+    "question": "what is in front of the glass",
+    "prediction": "In front of the glass on the bathroom sink counter, there is a toothbrush. The toothbrush is placed on a small white dish or tray that also holds a few other items, including a tube of toothpaste. The setup suggests a typical morning or evening oral hygiene routine. The counter appears neat and organized, with",
+    "gt_answer": "towel",
+    "latency_sec": 5.369
+  },
+  {
+    "index": 50,
+    "image_id": "image580",
+    "question": "what is on the right side of the curtains",
+    "prediction": "On the right side of the curtains, there is a lamp on a small table.",
+    "gt_answer": "picture",
+    "latency_sec": 2.348
+  },
+  {
+    "index": 51,
+    "image_id": "image25",
+    "question": "how many stacks of paper are there on the table",
+    "prediction": "There are three stacks of paper on the table.",
+    "gt_answer": "2",
+    "latency_sec": 1.849
+  },
+  {
+    "index": 52,
+    "image_id": "image471",
+    "question": "what is behind the monitor",
+    "prediction": "There is a bulletin board with various papers and notes pinned to it behind the monitor.",
+    "gt_answer": "printer",
+    "latency_sec": 2.341
+  },
+  {
+    "index": 53,
+    "image_id": "image720",
+    "question": "what is the object above the counter",
+    "prediction": "The object above the counter is a mirror.",
+    "gt_answer": "mirror",
+    "latency_sec": 1.822
+  },
+  {
+    "index": 54,
+    "image_id": "image869",
+    "question": "how many photos are in the wall",
+    "prediction": "There are eight pictures on the wall.",
+    "gt_answer": "9",
+    "latency_sec": 1.756
+  },
+  {
+    "index": 55,
+    "image_id": "image124",
+    "question": "what is on the left of kitchen island",
+    "prediction": "On the left of the kitchen island, there is a sink with a faucet, a soap dispenser, and some other items typically found near a sink area.",
+    "gt_answer": "tupperware",
+    "latency_sec": 3.192
+  },
+  {
+    "index": 56,
+    "image_id": "image1039",
+    "question": "what is present in the room on the right side",
+    "prediction": "In the room shown in the image, several items are present on the right side. Let's break down the details logically:\n\n1. **Loft Bed Structure**: The right side of the image prominently features a loft bed with a red and white color scheme. The bed has a slide attached to it, which extends down",
+    "gt_answer": "slide",
+    "latency_sec": 5.33
+  },
+  {
+    "index": 57,
+    "image_id": "image501",
+    "question": "what is the colour of the curtain",
+    "prediction": "The curtain is blue and green.",
+    "gt_answer": "blue, green",
+    "latency_sec": 1.686
+  },
+  {
+    "index": 58,
+    "image_id": "image973",
+    "question": "what is found to the left side of the lamp",
+    "prediction": "To the left side of the lamp, there is a nightstand with a few items on it, including a phone and a bottle.",
+    "gt_answer": "door",
+    "latency_sec": 2.969
+  },
+  {
+    "index": 59,
+    "image_id": "image1440",
+    "question": "what are stuck on the wall",
+    "prediction": "The wall has three framed pictures or paintings stuck on it.",
+    "gt_answer": "photo",
+    "latency_sec": 1.968
+  },
+  {
+    "index": 60,
+    "image_id": "image1113",
+    "question": "what is the colour of the object on the television",
+    "prediction": "The object on the television is pink.",
+    "gt_answer": "pink",
+    "latency_sec": 1.706
+  },
+  {
+    "index": 61,
+    "image_id": "image1063",
+    "question": "what is the largest object",
+    "prediction": "The largest object in the image is the bed.",
+    "gt_answer": "bed",
+    "latency_sec": 1.885
+  },
+  {
+    "index": 62,
+    "image_id": "image1400",
+    "question": "what is behind the chair",
+    "prediction": "The area behind the chair appears to be a window, providing a view into another room.",
+    "gt_answer": "mirror",
+    "latency_sec": 2.407
+  },
+  {
+    "index": 63,
+    "image_id": "image996",
+    "question": "what objects are found on the bed",
+    "prediction": "The bed has a checkered blanket and a pillow. There's also a stuffed animal near the pillows.",
+    "gt_answer": "doll, pillow",
+    "latency_sec": 2.609
+  },
+  {
+    "index": 64,
+    "image_id": "image566",
+    "question": "what is in front of refridgerator",
+    "prediction": "In front of the refrigerator, there is a person walking.",
+    "gt_answer": "person",
+    "latency_sec": 2.016
+  },
+  {
+    "index": 65,
+    "image_id": "image470",
+    "question": "what is the colour of the shirt the person is wearing",
+    "prediction": "The person is wearing a white shirt.",
+    "gt_answer": "white",
+    "latency_sec": 1.754
+  },
+  {
+    "index": 66,
+    "image_id": "image854",
+    "question": "how many knobs are there",
+    "prediction": "There are five knobs on the stove in the image.",
+    "gt_answer": "6",
+    "latency_sec": 1.953
+  },
+  {
+    "index": 67,
+    "image_id": "image990",
+    "question": "what objects are found on the top row of the toys shelf",
+    "prediction": "The top row of the toy shelf contains several books and a few decorative items.",
+    "gt_answer": "books, bottle",
+    "latency_sec": 2.236
+  },
+  {
+    "index": 68,
+    "image_id": "image685",
+    "question": "what is on the right side of the toilet",
+    "prediction": "On the right side of the toilet, there is a toilet paper holder with a roll of toilet paper on it.",
+    "gt_answer": "tissue_roll",
+    "latency_sec": 2.745
+  },
+  {
+    "index": 69,
+    "image_id": "image1418",
+    "question": "what is on the floor",
+    "prediction": "The floor has a patterned rug on it.",
+    "gt_answer": "rug",
+    "latency_sec": 1.893
+  },
+  {
+    "index": 70,
+    "image_id": "image596",
+    "question": "what is the object behind the table close to the wall",
+    "prediction": "The object behind the table close to the wall appears to be an air conditioning unit.",
+    "gt_answer": "window",
+    "latency_sec": 2.348
+  },
+  {
+    "index": 71,
+    "image_id": "image953",
+    "question": "what is the largest object",
+    "prediction": "The largest object in the image is the bed.",
+    "gt_answer": "bed",
+    "latency_sec": 1.885
+  },
+  {
+    "index": 72,
+    "image_id": "image1202",
+    "question": "what is found on the sofa",
+    "prediction": "The sofa has a patterned cover with images of cars and several pillows.",
+    "gt_answer": "pillow",
+    "latency_sec": 2.167
+  },
+  {
+    "index": 73,
+    "image_id": "image809",
+    "question": "what is the colour of the picture on the wall",
+    "prediction": "The picture on the wall is red.",
+    "gt_answer": "red",
+    "latency_sec": 1.707
+  },
+  {
+    "index": 74,
+    "image_id": "image64",
+    "question": "what is the object behind the cot and the table",
+    "prediction": "The object behind the cot and the table appears to be a folding screen or a room divider. It consists of several tall panels that are connected together, likely to provide privacy or to partition the room.",
+    "gt_answer": "room_divider",
+    "latency_sec": 3.815
+  },
+  {
+    "index": 75,
+    "image_id": "image352",
+    "question": "what is in front of the sofas",
+    "prediction": "In front of the sofas, there is a coffee table.",
+    "gt_answer": "table",
+    "latency_sec": 2.015
+  },
+  {
+    "index": 76,
+    "image_id": "image290",
+    "question": "how manu blue chair are there",
+    "prediction": "There are five blue chairs in the image.",
+    "gt_answer": "8",
+    "latency_sec": 1.841
+  },
+  {
+    "index": 77,
+    "image_id": "image686",
+    "question": "what are found on the bottom left of the outside of the shower room",
+    "prediction": "On the bottom left outside of the shower room, there is a red mat.",
+    "gt_answer": "drawer",
+    "latency_sec": 2.239
+  },
+  {
+    "index": 78,
+    "image_id": "image56",
+    "question": "how many doors does the night stand have",
+    "prediction": "The nightstand in the image has three drawers.",
+    "gt_answer": "3",
+    "latency_sec": 1.806
+  },
+  {
+    "index": 79,
+    "image_id": "image422",
+    "question": "what is on the left side of the sofa",
+    "prediction": "On the left side of the sofa, there is a foosball table.",
+    "gt_answer": "foosball_table",
+    "latency_sec": 2.283
+  },
+  {
+    "index": 80,
+    "image_id": "image45",
+    "question": "what color is the hair brush",
+    "prediction": "The hair brush on the sink counter is pink.",
+    "gt_answer": "pink",
+    "latency_sec": 1.843
+  },
+  {
+    "index": 81,
+    "image_id": "image117",
+    "question": "what is the object stuck close to the wall",
+    "prediction": "The object stuck close to the wall appears to be a chair.",
+    "gt_answer": "wall_decoration",
+    "latency_sec": 2.101
+  },
+  {
+    "index": 82,
+    "image_id": "image472",
+    "question": "how many doors does the bookshelf have",
+    "prediction": "The bookshelf has two doors.",
+    "gt_answer": "4",
+    "latency_sec": 1.606
+  },
+  {
+    "index": 83,
+    "image_id": "image1447",
+    "question": "what is in front of the photo",
+    "prediction": "The image shows a dining room with a long wooden table and several upholstered chairs. There is a decorative piece on the wall and a sideboard with some items on it. The room has a classic, elegant design.",
+    "gt_answer": "cabinet",
+    "latency_sec": 4.127
+  },
+  {
+    "index": 84,
+    "image_id": "image172",
+    "question": "what is on the table between the dark brown armchairs",
+    "prediction": "There is a white piece of paper and some magazines or books on the table between the dark brown armchairs.",
+    "gt_answer": "paper, book",
+    "latency_sec": 2.703
+  },
+  {
+    "index": 85,
+    "image_id": "image972",
+    "question": "what are found on the bed",
+    "prediction": "The bed has crumpled sheets and pillows.",
+    "gt_answer": "pillow, bed_sheets",
+    "latency_sec": 1.842
+  },
+  {
+    "index": 86,
+    "image_id": "image622",
+    "question": "what is below the table",
+    "prediction": "Below the table, there is a cardboard box on the floor.",
+    "gt_answer": "box",
+    "latency_sec": 2.08
+  },
+  {
+    "index": 87,
+    "image_id": "image13",
+    "question": "how many white monitors are there",
+    "prediction": "There is one white monitor visible in the image.",
+    "gt_answer": "1",
+    "latency_sec": 1.851
+  },
+  {
+    "index": 88,
+    "image_id": "image613",
+    "question": "what is on the shelf",
+    "prediction": "The shelf contains various items, including books, a printer, and some decorative objects.",
+    "gt_answer": "decorative_item",
+    "latency_sec": 2.348
+  },
+  {
+    "index": 89,
+    "image_id": "image591",
+    "question": "what is the object on the floor in front of the wall",
+    "prediction": "The object on the floor in front of the wall is a small wooden cabinet or stand.",
+    "gt_answer": "cabinet",
+    "latency_sec": 2.363
+  },
+  {
+    "index": 90,
+    "image_id": "image418",
+    "question": "what is on the right side of the bed",
+    "prediction": "On the right side of the bed, there are some storage bins and a small table or shelf with various items on it.",
+    "gt_answer": "table",
+    "latency_sec": 2.872
+  },
+  {
+    "index": 91,
+    "image_id": "image697",
+    "question": "how many drawer knobs are there",
+    "prediction": "There are six drawer knobs visible in the image.",
+    "gt_answer": "10",
+    "latency_sec": 1.84
+  },
+  {
+    "index": 92,
+    "image_id": "image490",
+    "question": "how many chairs are visible",
+    "prediction": "There is one chair visible in the image.",
+    "gt_answer": "2",
+    "latency_sec": 1.818
+  },
+  {
+    "index": 93,
+    "image_id": "image143",
+    "question": "what is the colour of the food inside the bottle",
+    "prediction": "The bottle appears to contain a dark-colored liquid, likely a type of sauce.",
+    "gt_answer": "red",
+    "latency_sec": 2.233
+  },
+  {
+    "index": 94,
+    "image_id": "image1320",
+    "question": "what is on the right side of the chair",
+    "prediction": "On the right side of the chair, there is a glass table with a chessboard and a decorative tray with a small item on it.",
+    "gt_answer": "blinds",
+    "latency_sec": 3.071
+  },
+  {
+    "index": 95,
+    "image_id": "image653",
+    "question": "what is at the right most part",
+    "prediction": "The rightmost part of the image shows a portion of a bathtub with several bottles, likely containing bath and body products. There is also a shelf with more items, including what appears to be a bath sponge and possibly more toiletries.",
+    "gt_answer": "bathtub",
+    "latency_sec": 4.323
+  },
+  {
+    "index": 96,
+    "image_id": "image508",
+    "question": "what color is the bathroom mat on the floor",
+    "prediction": "The bathroom mat on the floor is maroon.",
+    "gt_answer": "red",
+    "latency_sec": 1.885
+  },
+  {
+    "index": 97,
+    "image_id": "image1376",
+    "question": "what is stuck on the wall",
+    "prediction": "The image shows a dining room with a large painting or artwork hanging on the wall above the table.",
+    "gt_answer": "wall_decoration",
+    "latency_sec": 2.497
+  },
+  {
+    "index": 98,
+    "image_id": "image598",
+    "question": "how many sofas are there",
+    "prediction": "There are two sofas in the image.",
+    "gt_answer": "2",
+    "latency_sec": 1.752
+  },
+  {
+    "index": 99,
+    "image_id": "image1399",
+    "question": "what is at the right top",
+    "prediction": "At the top right of the image, there is a chandelier and a framed picture on the wall.",
+    "gt_answer": "chandelier",
+    "latency_sec": 2.564
+  },
+  {
+    "index": 100,
+    "image_id": "image436",
+    "question": "what is on the right side of the toy",
+    "prediction": "On the right side of the toy, there is a small trampoline.",
+    "gt_answer": "table",
+    "latency_sec": 2.22
+  },
+  {
+    "index": 101,
+    "image_id": "image500",
+    "question": "what is on the flush tank",
+    "prediction": "The flush tank has a box of tissues on it.",
+    "gt_answer": "tissue_box",
+    "latency_sec": 1.902
+  },
+  {
+    "index": 102,
+    "image_id": "image759",
+    "question": "how many cupboards are there",
+    "prediction": "There are six wooden cupboards in the image.",
+    "gt_answer": "5",
+    "latency_sec": 1.84
+  },
+  {
+    "index": 103,
+    "image_id": "image1150",
+    "question": "what is the colour of the mat",
+    "prediction": "The mat is blue with a colorful design.",
+    "gt_answer": "blue",
+    "latency_sec": 1.819
+  },
+  {
+    "index": 104,
+    "image_id": "image254",
+    "question": "what is the colour of wall",
+    "prediction": "The wall is a light color, possibly white or off-white.",
+    "gt_answer": "white",
+    "latency_sec": 2.034
+  },
+  {
+    "index": 105,
+    "image_id": "image516",
+    "question": "how many lamps are there",
+    "prediction": "There are two lamps in the image.",
+    "gt_answer": "2",
+    "latency_sec": 1.749
+  },
+  {
+    "index": 106,
+    "image_id": "image1244",
+    "question": "what is the colour of the table",
+    "prediction": "The table is green, similar to a pool table, with a wooden frame.",
+    "gt_answer": "green, brown",
+    "latency_sec": 2.282
+  },
+  {
+    "index": 107,
+    "image_id": "image98",
+    "question": "what is on the left side table",
+    "prediction": "On the left side table, there are several items, including a red box and some books or magazines.",
+    "gt_answer": "stool",
+    "latency_sec": 2.617
+  },
+  {
+    "index": 108,
+    "image_id": "image528",
+    "question": "what is the red object on the table",
+    "prediction": "The red object on the table appears to be a water bottle.",
+    "gt_answer": "bottle",
+    "latency_sec": 2.004
+  },
+  {
+    "index": 109,
+    "image_id": "image1114",
+    "question": "what is found on the bed",
+    "prediction": "The bed has a red and black checkered blanket, several pillows, and a piece of paper on it.",
+    "gt_answer": "remote_control",
+    "latency_sec": 2.629
+  },
+  {
+    "index": 110,
+    "image_id": "image1380",
+    "question": "what is the colour of the chair",
+    "prediction": "The chairs in the image are wooden with blue upholstered seats.",
+    "gt_answer": "blue",
+    "latency_sec": 2.084
+  },
+  {
+    "index": 111,
+    "image_id": "image454",
+    "question": "what is beneath the chair",
+    "prediction": "Beneath the chair, you can see a wooden floor. The chair is positioned on this floor, which appears to be made of light-colored wood. The floor is clean and smooth, providing a neat and organized look to the office space.",
+    "gt_answer": "machine",
+    "latency_sec": 4.446
+  },
+  {
+    "index": 112,
+    "image_id": "image1366",
+    "question": "what are stuck on the wall",
+    "prediction": "The wall has framed pictures or artwork hanging on it.",
+    "gt_answer": "photo",
+    "latency_sec": 1.902
+  },
+  {
+    "index": 113,
+    "image_id": "image986",
+    "question": "what is behind the bed",
+    "prediction": "Behind the bed, there is a bookshelf filled with books and various items.",
+    "gt_answer": "bookshelf",
+    "latency_sec": 2.275
+  },
+  {
+    "index": 114,
+    "image_id": "image252",
+    "question": "what color is the roll of paper towels",
+    "prediction": "The roll of paper towels is white.",
+    "gt_answer": "1",
+    "latency_sec": 1.677
+  },
+  {
+    "index": 115,
+    "image_id": "image1352",
+    "question": "how many chairs are there",
+    "prediction": "There are six chairs around the table.",
+    "gt_answer": "7",
+    "latency_sec": 1.749
+  },
+  {
+    "index": 116,
+    "image_id": "image1430",
+    "question": "what is the colour of the clothes on the table",
+    "prediction": "The clothes on the table are green.",
+    "gt_answer": "green, white",
+    "latency_sec": 1.712
+  },
+  {
+    "index": 117,
+    "image_id": "image1295",
+    "question": "what is seen on the mirror reflection",
+    "prediction": "In the mirror reflection, you can see part of a chair and a window with blinds. The reflection also shows some light coming from the window.",
+    "gt_answer": "chair",
+    "latency_sec": 3.135
+  },
+  {
+    "index": 118,
+    "image_id": "image1087",
+    "question": "what is hanged on the wall",
+    "prediction": "A picture is hung on the wall.",
+    "gt_answer": "photo",
+    "latency_sec": 1.753
+  },
+  {
+    "index": 119,
+    "image_id": "image1259",
+    "question": "what is at the left bottom",
+    "prediction": "At the bottom left of the image, there is a black bag on the floor next to the coffee table.",
+    "gt_answer": "sofa",
+    "latency_sec": 2.63
+  },
+  {
+    "index": 120,
+    "image_id": "image136",
+    "question": "what is above the stove",
+    "prediction": "Above the stove, there is a microwave oven mounted on the wall.",
+    "gt_answer": "microwave",
+    "latency_sec": 2.146
+  },
+  {
+    "index": 121,
+    "image_id": "image1055",
+    "question": "what is on the right side of the drawer table",
+    "prediction": "On the right side of the drawer table, there is a bed with a blue and yellow plaid blanket and a metal headboard.",
+    "gt_answer": "bunk_bed",
+    "latency_sec": 2.954
+  },
+  {
+    "index": 122,
+    "image_id": "image910",
+    "question": "what is on the right side of the curtain",
+    "prediction": "On the right side of the curtain, there is a window with blinds.",
+    "gt_answer": "blinds",
+    "latency_sec": 2.216
+  },
+  {
+    "index": 123,
+    "image_id": "image886",
+    "question": "what is found to the right side of the flour mixer",
+    "prediction": "To the right of the flour mixer, you can see a kitchen sink with a faucet. The countertop extends to the right, leading to the sink area.",
+    "gt_answer": "faucet",
+    "latency_sec": 3.339
+  },
+  {
+    "index": 124,
+    "image_id": "image510",
+    "question": "what is on the left side of the bathtub",
+    "prediction": "On the left side of the bathtub, there is a countertop with various items, including a toothbrush holder, a cup, an electric toothbrush, and other toiletries. There is also a mirror on the wall above the countertop.",
+    "gt_answer": "radio",
+    "latency_sec": 4.456
+  },
+  {
+    "index": 125,
+    "image_id": "image497",
+    "question": "what is on the drawer",
+    "prediction": "The drawer in the bathroom has various items on top, including bottles of personal care products like lotion and possibly other toiletries.",
+    "gt_answer": "toiletries",
+    "latency_sec": 2.868
+  },
+  {
+    "index": 126,
+    "image_id": "image292",
+    "question": "how many toy boxes are under the table close to the wall",
+    "prediction": "There are three toy boxes under the table close to the wall.",
+    "gt_answer": "6",
+    "latency_sec": 2.043
+  },
+  {
+    "index": 127,
+    "image_id": "image867",
+    "question": "how many doors are found",
+    "prediction": "The kitchen in the image has a total of eight doors. There are six cabinet doors visible, with two on the top row and four on the bottom row. Additionally, there are two drawers, which, although not doors, are often considered in the same context for storage purposes.",
+    "gt_answer": "2",
+    "latency_sec": 4.907
+  },
+  {
+    "index": 128,
+    "image_id": "image724",
+    "question": "what is placed near the sink",
+    "prediction": "Near the sink, there are several items including:\n\n1. A bottle of hand soap or sanitizer.\n2. A couple of small containers or dispensers, possibly for soap or lotion.\n3. A toothbrush holder with toothbrushes.\n4. A decorative item or small sculpture.\n\nAdditionally, there is a framed artwork",
+    "gt_answer": "hand_sanitizer",
+    "latency_sec": 5.332
+  },
+  {
+    "index": 129,
+    "image_id": "image1317",
+    "question": "what is beneath the blinds",
+    "prediction": "Beneath the blinds, there is a treadmill.",
+    "gt_answer": "treadmill",
+    "latency_sec": 1.948
+  },
+  {
+    "index": 130,
+    "image_id": "image88",
+    "question": "what is on the ceiling",
+    "prediction": "The ceiling has fluorescent lights and some structural elements, like beams and ducts. There's also a clock visible in the background.",
+    "gt_answer": "pipe, light",
+    "latency_sec": 2.952
+  },
+  {
+    "index": 131,
+    "image_id": "image39",
+    "question": "how many black objests are there on the table",
+    "prediction": "There is one black object on the table.",
+    "gt_answer": "1",
+    "latency_sec": 1.771
+  },
+  {
+    "index": 132,
+    "image_id": "image1069",
+    "question": "what is on the container",
+    "prediction": "The container has a \"High Fives\" logo on it.",
+    "gt_answer": "bag",
+    "latency_sec": 2.082
+  },
+  {
+    "index": 133,
+    "image_id": "image1431",
+    "question": "what is behind the chair",
+    "prediction": "Behind the chair, there is a window with curtains.",
+    "gt_answer": "window",
+    "latency_sec": 1.952
+  },
+  {
+    "index": 134,
+    "image_id": "image350",
+    "question": "which instrument with keys is used to play music",
+    "prediction": "The instrument with keys used to play music in the image is a keyboard.",
+    "gt_answer": "piano",
+    "latency_sec": 2.214
+  },
+  {
+    "index": 135,
+    "image_id": "image1006",
+    "question": "what is on the left side of the bed",
+    "prediction": "On the left side of the bed, there is a dark-colored shoe or slipper.",
+    "gt_answer": "lamp",
+    "latency_sec": 2.41
+  },
+  {
+    "index": 136,
+    "image_id": "image1119",
+    "question": "how many chairs are there",
+    "prediction": "There are two chairs in the image.",
+    "gt_answer": "2",
+    "latency_sec": 1.748
+  },
+  {
+    "index": 137,
+    "image_id": "image1012",
+    "question": "what is on the left side of the garbage bin",
+    "prediction": "On the left side of the garbage bin, there is a chair with various items on it, including clothes and bags.",
+    "gt_answer": "ironing_board",
+    "latency_sec": 2.763
+  },
+  {
+    "index": 138,
+    "image_id": "image701",
+    "question": "what is beneath the books",
+    "prediction": "Beneath the books, there is a toilet tissue roll holder mounted on the wall.",
+    "gt_answer": "tissue_roll",
+    "latency_sec": 2.408
+  },
+  {
+    "index": 139,
+    "image_id": "image275",
+    "question": "what is in front of table",
+    "prediction": "In front of the table, there are several office chairs positioned around it. The chairs are black with mesh backs and are on wheels, typical of office furniture designed for mobility and comfort. The arrangement suggests that this setup is likely used for meetings or collaborative work, where individuals can gather around the table to discuss, plan,",
+    "gt_answer": "door",
+    "latency_sec": 5.329
+  },
+  {
+    "index": 140,
+    "image_id": "image749",
+    "question": "what is in front of the monitor",
+    "prediction": "In front of the monitor, there is a chair.",
+    "gt_answer": "chair",
+    "latency_sec": 1.949
+  },
+  {
+    "index": 141,
+    "image_id": "image982",
+    "question": "what are the objects on the table",
+    "prediction": "On the table, there are several items:\n\n1. A lamp with a white shade and a red base.\n2. A stack of books or magazines.\n3. A remote control.\n4. A white bag with some designs on it.\n5. A notebook or a stack of papers.",
+    "gt_answer": "books",
+    "latency_sec": 5.043
+  },
+  {
+    "index": 142,
+    "image_id": "image959",
+    "question": "what is on the wall",
+    "prediction": "The wall has two decorative circular ornaments and a round mirror.",
+    "gt_answer": "wall_decoration",
+    "latency_sec": 2.012
+  },
+  {
+    "index": 143,
+    "image_id": "image477",
+    "question": "what is behind the sofa",
+    "prediction": "Behind the sofa, there is a window with blinds.",
+    "gt_answer": "blinds",
+    "latency_sec": 1.959
+  },
+  {
+    "index": 144,
+    "image_id": "image586",
+    "question": "how many chair are",
+    "prediction": "There is one chair visible in the image.",
+    "gt_answer": "2",
+    "latency_sec": 1.771
+  },
+  {
+    "index": 145,
+    "image_id": "image605",
+    "question": "what is the object on the floor in front of the table",
+    "prediction": "The object on the floor in front of the table is a chair.",
+    "gt_answer": "chair",
+    "latency_sec": 2.109
+  },
+  {
+    "index": 146,
+    "image_id": "image1125",
+    "question": "what is at the right side of the bed",
+    "prediction": "At the right side of the bed, there is a desk with a chair. On the desk, there are various items including books, a printer, and other small objects. There is also a bookshelf above the desk.",
+    "gt_answer": "toys_rack",
+    "latency_sec": 4.193
+  },
+  {
+    "index": 147,
+    "image_id": "image1062",
+    "question": "what are the things on the cabinet",
+    "prediction": "In the image, the cabinet next to the bed has several items on top of it. From what is visible, the items appear to include:\n\n1. A collection of small decorative objects, which might include figurines or ornaments.\n2. A couple of trophies or shiny decorative pieces.\n3. Some small containers or boxes",
+    "gt_answer": "vase, toy",
+    "latency_sec": 5.382
+  },
+  {
+    "index": 148,
+    "image_id": "image722",
+    "question": "what is in front of bathtub",
+    "prediction": "In front of the bathtub, there is a glass shower door.",
+    "gt_answer": "toilet",
+    "latency_sec": 2.034
+  },
+  {
+    "index": 149,
+    "image_id": "image3",
+    "question": "what is behind the tape",
+    "prediction": "The image shows a small office area with a desk, papers, a telephone, and a chair. Behind the desk, there is a door with a vent near the top.",
+    "gt_answer": "book",
+    "latency_sec": 3.525
+  },
+  {
+    "index": 150,
+    "image_id": "image729",
+    "question": "what color is the towel",
+    "prediction": "The towel is white.",
+    "gt_answer": "white",
+    "latency_sec": 1.552
+  },
+  {
+    "index": 151,
+    "image_id": "image575",
+    "question": "what is the object close to the counter",
+    "prediction": "The object close to the counter on the left side appears to be a toaster.",
+    "gt_answer": "sink",
+    "latency_sec": 2.199
+  },
+  {
+    "index": 152,
+    "image_id": "image1348",
+    "question": "what is on the table",
+    "prediction": "The table has a lamp and some items, including what looks like a tissue box.",
+    "gt_answer": "vase",
+    "latency_sec": 2.342
+  },
+  {
+    "index": 153,
+    "image_id": "image828",
+    "question": "what objects are found under the storage rack",
+    "prediction": "Under the storage rack, there are kitchen cabinets and drawers.",
+    "gt_answer": "toaster, computer",
+    "latency_sec": 1.934
+  },
+  {
+    "index": 154,
+    "image_id": "image87",
+    "question": "what are the colours that are predominant",
+    "prediction": "The predominant colors in the image are shades of brown from the wooden bookshelves, along with various colors from the book covers. There are also some red and white elements visible in the ceiling lights and some books.",
+    "gt_answer": "brown, red, black",
+    "latency_sec": 4.089
+  },
+  {
+    "index": 155,
+    "image_id": "image285",
+    "question": "what is the most colorful object in this picture",
+    "prediction": "The most colorful object in the picture is the multicolored square rug on the floor.",
+    "gt_answer": "rug",
+    "latency_sec": 2.421
+  },
+  {
+    "index": 156,
+    "image_id": "image336",
+    "question": "what is to the right of the computer",
+    "prediction": "To the right of the computer, there is a desk with a small black computer tower on the floor beneath it. Further to the right, there is another desk with a printer on it.",
+    "gt_answer": "printer",
+    "latency_sec": 3.66
+  },
+  {
+    "index": 157,
+    "image_id": "image447",
+    "question": "how many plastic boxes are there",
+    "prediction": "There are two plastic boxes in the image.",
+    "gt_answer": "2",
+    "latency_sec": 1.771
+  },
+  {
+    "index": 158,
+    "image_id": "image49",
+    "question": "how many blue electronic tooth brushes are there",
+    "prediction": "There are two blue electronic toothbrushes in the image.",
+    "gt_answer": "1",
+    "latency_sec": 1.937
+  },
+  {
+    "index": 159,
+    "image_id": "image333",
+    "question": "what sign is visible on the computer",
+    "prediction": "The computer screens display the Windows logo, indicating that they are running a Windows operating system.",
+    "gt_answer": "window",
+    "latency_sec": 2.416
+  },
+  {
+    "index": 160,
+    "image_id": "image817",
+    "question": "what is beneath the bookshelf",
+    "prediction": "Beneath the bookshelf, there is a microwave oven.",
+    "gt_answer": "microwave",
+    "latency_sec": 2.037
+  },
+  {
+    "index": 161,
+    "image_id": "image442",
+    "question": "what to the left of the cupboard",
+    "prediction": "To the left of the cupboard, there is a shelving unit filled with various toys and items. Above the shelving unit, there are several framed pictures on the wall. On the floor in front of the shelving unit, there is a colorful rug with a sports theme.",
+    "gt_answer": "toy_shelf",
+    "latency_sec": 4.923
+  },
+  {
+    "index": 162,
+    "image_id": "image974",
+    "question": "what is on the right side of the bed",
+    "prediction": "On the right side of the bed, there is a stuffed monkey toy sitting on a chair.",
+    "gt_answer": "night_stand",
+    "latency_sec": 2.479
+  },
+  {
+    "index": 163,
+    "image_id": "image1376",
+    "question": "how many chairs are there",
+    "prediction": "There are eight chairs around the dining table.",
+    "gt_answer": "8",
+    "latency_sec": 1.816
+  },
+  {
+    "index": 164,
+    "image_id": "image923",
+    "question": "what is found on the cabinet",
+    "prediction": "The cabinet has a mirror on its front. There's also a clock on top of the cabinet.",
+    "gt_answer": "clock",
+    "latency_sec": 2.497
+  },
+  {
+    "index": 165,
+    "image_id": "image571",
+    "question": "what is in front of refridgerator",
+    "prediction": "In front of the refrigerator, there is a white stove with four burners on top and an oven below. The stove is positioned against the wall opposite the countertop, creating a compact kitchen layout. The stove appears to be an electric model, given the coil burners on the top. The space around the stove seems",
+    "gt_answer": "garbage_bin",
+    "latency_sec": 5.387
+  },
+  {
+    "index": 166,
+    "image_id": "image651",
+    "question": "what are the objects found on sink",
+    "prediction": "In the image, the sink area contains the following objects:\n1. A soap dispenser.\n2. A small towel or cloth.\n3. A faucet.\n\nThe sink is part of a vanity with a mirror above it.",
+    "gt_answer": "toothpaste, bottle_of_hand_wash_liquid",
+    "latency_sec": 4.142
+  },
+  {
+    "index": 167,
+    "image_id": "image350",
+    "question": "what is behind the tricycle",
+    "prediction": "Behind the tricycle, there is a guitar leaning against the wall.",
+    "gt_answer": "window",
+    "latency_sec": 2.1
+  },
+  {
+    "index": 168,
+    "image_id": "image113",
+    "question": "what are the objects on the shelves",
+    "prediction": "The shelves contain books.",
+    "gt_answer": "books",
+    "latency_sec": 1.571
+  },
+  {
+    "index": 169,
+    "image_id": "image202",
+    "question": "what is on the sofa",
+    "prediction": "The sofa has several pillows on it. There are also some clothes draped over the back of the sofa.",
+    "gt_answer": "pillow",
+    "latency_sec": 2.606
+  },
+  {
+    "index": 170,
+    "image_id": "image12",
+    "question": "what are the objects on the counter table",
+    "prediction": "On the counter, there is a box labeled \"N.Y.U.\" with some papers or brochures sticking out of it. There is also a black device next to the box, which looks like a phone or some kind of office equipment.",
+    "gt_answer": "stapler, tape_dispenser, paper_holder",
+    "latency_sec": 4.392
+  },
+  {
+    "index": 171,
+    "image_id": "image576",
+    "question": "what is the object in the knife rack",
+    "prediction": "The object in the knife rack appears to be a set of knives.",
+    "gt_answer": "knife",
+    "latency_sec": 2.07
+  },
+  {
+    "index": 172,
+    "image_id": "image597",
+    "question": "what is behind the door",
+    "prediction": "Behind the door, there is a dining area with a table and chairs. There's also a window with curtains in the background.",
+    "gt_answer": "table",
+    "latency_sec": 2.934
+  },
+  {
+    "index": 173,
+    "image_id": "image1342",
+    "question": "what are the objects on the table",
+    "prediction": "The table has a tea set, which includes a teapot, cups, and possibly a sugar bowl or creamer. There's also a decorative item, like a small vase with flowers.",
+    "gt_answer": "decoration_item",
+    "latency_sec": 3.733
+  },
+  {
+    "index": 174,
+    "image_id": "image1013",
+    "question": "what is kept in the right side",
+    "prediction": "In the right side of the image, there is a bedside table with a lamp on it. There are also some framed pictures hanging on the wall.",
+    "gt_answer": "lamp",
+    "latency_sec": 3.202
+  },
+  {
+    "index": 175,
+    "image_id": "image1083",
+    "question": "what is the object on the sofa",
+    "prediction": "The object on the sofa appears to be a baby bouncer or a baby jumper. It's a device designed to allow a baby to bounce or sit in a safe, supported position.",
+    "gt_answer": "pillow",
+    "latency_sec": 3.664
+  },
+  {
+    "index": 176,
+    "image_id": "image611",
+    "question": "which object is below the mouse",
+    "prediction": "The object below the mouse is a mouse pad.",
+    "gt_answer": "mouse_pad",
+    "latency_sec": 1.843
+  },
+  {
+    "index": 177,
+    "image_id": "image1366",
+    "question": "what is seen in the inner room",
+    "prediction": "In the inner room visible through the doorway, you can see part of a kitchen area. There are wooden cabinets, a countertop, and what appears to be a sink or a range hood. The room has a similar hardwood floor and neutral wall colors, maintaining continuity with the dining area.",
+    "gt_answer": "cabinet",
+    "latency_sec": 5.05
+  },
+  {
+    "index": 178,
+    "image_id": "image23",
+    "question": "what is on the left of the poster board",
+    "prediction": "On the left of the poster board, there is a shelf with various items, including books and folders.",
+    "gt_answer": "coat_hanger",
+    "latency_sec": 2.615
+  },
+  {
+    "index": 179,
+    "image_id": "image972",
+    "question": "what object is found on the top of the cabinet",
+    "prediction": "On the top of the cabinet, there is a lamp.",
+    "gt_answer": "lamp",
+    "latency_sec": 1.973
+  },
+  {
+    "index": 180,
+    "image_id": "image1",
+    "question": "what is the object that is right of the black garbage bin and left of the gray garbage bin",
+    "prediction": "The object you're referring to is a blue chair.",
+    "gt_answer": "chair",
+    "latency_sec": 1.955
+  },
+  {
+    "index": 181,
+    "image_id": "image1305",
+    "question": "what is in front of the wall on the left side",
+    "prediction": "In front of the wall on the left side, there is a tall potted plant.",
+    "gt_answer": "table",
+    "latency_sec": 2.413
+  },
+  {
+    "index": 182,
+    "image_id": "image156",
+    "question": "what is on the top of the fan coil",
+    "prediction": "The image shows a room with a television on, but I can't see anything on top of the fan coil.",
+    "gt_answer": "book",
+    "latency_sec": 2.746
+  },
+  {
+    "index": 183,
+    "image_id": "image1399",
+    "question": "what is the colour of the wall",
+    "prediction": "The wall is painted a shade of brown or tan.",
+    "gt_answer": "green",
+    "latency_sec": 1.95
+  },
+  {
+    "index": 184,
+    "image_id": "image450",
+    "question": "what is the object close to the wall",
+    "prediction": "The object close to the wall on the left side of the image is a bulletin board. Bulletin boards are typically used to display information, announcements, or notices in a visible area. In this case, it appears to have various papers and possibly schedules or important information posted on it.",
+    "gt_answer": "poster_board",
+    "latency_sec": 4.862
+  },
+  {
+    "index": 185,
+    "image_id": "image448",
+    "question": "what is on left most side on the table",
+    "prediction": "On the leftmost side of the table, there is a framed document or certificate and a yellow cloth or towel with a remote control on top of it.",
+    "gt_answer": "towel",
+    "latency_sec": 3.271
+  },
+  {
+    "index": 186,
+    "image_id": "image625",
+    "question": "what is in front of the computer",
+    "prediction": "In front of the computer, there is a chair.",
+    "gt_answer": "laptop",
+    "latency_sec": 1.954
+  },
+  {
+    "index": 187,
+    "image_id": "image920",
+    "question": "what objects are found in the right of the bed",
+    "prediction": "To the right of the bed, there is a wooden dresser with several drawers. On top of the dresser, there are various items including a lamp, a small shelf with some objects, and a few decorative items. Additionally, there is a television on a wooden stand to the far right.",
+    "gt_answer": "toy_doll, toy_dog, lamp",
+    "latency_sec": 5.006
+  },
+  {
+    "index": 188,
+    "image_id": "image590",
+    "question": "what is the mat on the floor",
+    "prediction": "The mat on the floor is a large, patterned area rug with a red background and intricate designs.",
+    "gt_answer": "floor_mat",
+    "latency_sec": 2.61
+  },
+  {
+    "index": 189,
+    "image_id": "image557",
+    "question": "what is on the right side of the monitor",
+    "prediction": "On the right side of the monitor, there is a stack of papers or books and what appears to be a pair of glasses.",
+    "gt_answer": "paper",
+    "latency_sec": 2.946
+  },
+  {
+    "index": 190,
+    "image_id": "image874",
+    "question": "what is the object on the tissue handle",
+    "prediction": "The object on the tissue handle is a roll of paper towels.",
+    "gt_answer": "tissue",
+    "latency_sec": 2.009
+  },
+  {
+    "index": 191,
+    "image_id": "image986",
+    "question": "what is the object close to the wall above the table",
+    "prediction": "The object close to the wall above the table appears to be a small shelf or decorative item, possibly a figurine or a small statue.",
+    "gt_answer": "whiteboard",
+    "latency_sec": 3.072
+  },
+  {
+    "index": 192,
+    "image_id": "image5",
+    "question": "what is left of the kitchen",
+    "prediction": "In the image provided, what is left of the kitchen area is a section that appears to be a combination of an office or meeting room and a storage area. Here's a detailed breakdown of the elements present to the left of the kitchen:\n\n1. **Table and Chairs**: \n   - In the foreground, there is",
+    "gt_answer": "whiteboard, poster_board",
+    "latency_sec": 5.342
+  },
+  {
+    "index": 193,
+    "image_id": "image1256",
+    "question": "what is on the wall",
+    "prediction": "The wall has framed artwork and a built-in shelf displaying decorative items, such as vases.",
+    "gt_answer": "framed_certificate, picture",
+    "latency_sec": 2.478
+  },
+  {
+    "index": 194,
+    "image_id": "image193",
+    "question": "what is in front of the wall",
+    "prediction": "In front of the wall, there is a television set placed on top of a dark-colored dresser or chest of drawers. Below the television, on the dresser, there are a few items including what appears to be a DVD player or a cable box, and a small wooden box. To the left of the television, a",
+    "gt_answer": "television",
+    "latency_sec": 5.392
+  },
+  {
+    "index": 195,
+    "image_id": "image819",
+    "question": "how many monitors are there",
+    "prediction": "There is one monitor in the image.",
+    "gt_answer": "1",
+    "latency_sec": 1.756
+  },
+  {
+    "index": 196,
+    "image_id": "image892",
+    "question": "what is the object close to the counter",
+    "prediction": "The object close to the counter appears to be a roll of paper towels.",
+    "gt_answer": "stove",
+    "latency_sec": 2.137
+  },
+  {
+    "index": 197,
+    "image_id": "image865",
+    "question": "what object is near the garbage bin",
+    "prediction": "The object near the garbage bin is a refrigerator.",
+    "gt_answer": "refridgerator",
+    "latency_sec": 1.886
+  },
+  {
+    "index": 198,
+    "image_id": "image9",
+    "question": "how many cobalt garbage bin are there",
+    "prediction": "There is one blue recycling bin in the image.",
+    "gt_answer": "1",
+    "latency_sec": 1.809
+  },
+  {
+    "index": 199,
+    "image_id": "image1274",
+    "question": "what is on the sofa",
+    "prediction": "The sofa has several decorative pillows with various patterns, including palm tree designs.",
+    "gt_answer": "pillow",
+    "latency_sec": 2.214
+  }
+]
