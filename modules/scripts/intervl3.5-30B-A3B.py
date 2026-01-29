@@ -19,11 +19,10 @@ OUTPUT_DIR = "outputs/internvl3_5_eval"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 MAX_SAMPLES = 1000
-MAX_NEW_TOKENS = 64
+MAX_NEW_TOKENS = 8
 DTYPE = torch.bfloat16
 IMAGE_SIZE = 448
 MAX_IMAGE_TILES = 12
-RUN_OLLAMA_SNIPPET = False
 # =========================================
 
 IMAGENET_MEAN = (0.485, 0.456, 0.406)
@@ -101,6 +100,22 @@ def load_image(image_file: str, input_size: int = IMAGE_SIZE, max_num: int = MAX
     pixel_values = [transform(tile) for tile in tiles]
     return torch.stack(pixel_values)
 
+def build_short_answer_prompt(question: str, answer_hint: str) -> str:
+    target_len = max(1, min(2, len(str(answer_hint).split())))
+    instructions = "\n".join([
+        "# Role",
+        "You are a visual QA assistant.",
+        "",
+        "# Instructions",
+        f"1. Answer the question in exactly {target_len} word" + ("s" if target_len > 1 else "") + ".",
+        "2. Use nouns only; no punctuation or explanations.",
+        "3. If unsure, answer 'unknown'.",
+        "",
+        "# Question",
+        question
+    ])
+    return instructions
+
 
 def main():
     print("Loading tokenizer...")
@@ -131,7 +146,6 @@ def main():
     df = pd.read_csv(os.path.join(DATASET_DIR, CSV_FILE))
     if MAX_SAMPLES:
         df = df.head(MAX_SAMPLES)
-    eval_df = df
 
     results = []
 
@@ -149,13 +163,14 @@ def main():
             question = str(question)
 
         gt_answer = row["answer"]
+        prompt = build_short_answer_prompt(question, gt_answer)
 
         start = time.time()
         with torch.no_grad():
             prediction = model.chat(
                 tokenizer,
                 pixel_values,      # ✅ tensor of image patches
-                question,          # ✅ text prompt
+                prompt,            # ✅ text prompt with brevity instructions
                 {
                     "max_new_tokens": MAX_NEW_TOKENS,
                     "do_sample": False
@@ -182,44 +197,6 @@ def main():
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     print("Saved results to:", out_path)
-
-    if RUN_OLLAMA_SNIPPET:
-        from tqdm import tqdm
-        from pathlib import Path
-        from modules.llm_providers.views import ollama as provider
-        from modules.llm_providers.models.Answer import ImageAnswer
-        from modules.llm_providers.models.ollama import OllamaOptions
-
-        predictions, references = list(), list()
-        data_gen = eval_df.iterrows()
-
-        for idx, row in tqdm(data_gen, desc="LLM answering", total=len(eval_df)):
-
-            answer = provider.answer(
-                query = ImageAnswer(
-                    query=row['question'],
-                    paths=[Path('../../data/dataset-1/images').resolve() / f"{row['image_id']}.png"],
-                    other_dict=[{
-                        'role': 'system',
-                        'content': "\n".join([
-                            "# Role",
-                            "You are an AI assitant, that answer on user question for provided image",
-                            "",
-                            "# Instructions",
-                            "1. Answer short and clear.",
-                            f"2. Answer in {len(row['answer'].split(' '))} word, that exactly answer on user question",
-                            "",
-                        ])
-                    }]
-                ),
-                model="llava:13b",
-                options=OllamaOptions(
-                    temperature=0
-                )
-            )
-            
-            predictions.append(answer.answer)
-            references.append(row['answer'])
 
 
 if __name__ == "__main__":
