@@ -18,7 +18,7 @@ CSV_FILE = "data_eval.csv"
 OUTPUT_DIR = "outputs/internvl3_5_eval"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-MAX_SAMPLES = 1000
+MAX_SAMPLES = 2400
 MAX_NEW_TOKENS = 8
 DTYPE = torch.bfloat16
 IMAGE_SIZE = 448
